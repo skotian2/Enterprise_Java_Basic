@@ -11,6 +11,7 @@ public class BasicArray
 	     {
 	      sum=sum+A[i];
 	      System.out.println("Value of sum "+sum);
+	      
 	     }
      }
 }

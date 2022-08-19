@@ -16,5 +16,6 @@ public class ArrMissing
         int[] arr = { 1, 2, 3, 5 };
         int N = arr.length;
         System.out.println(getMissingNo(arr, N));
+	    System.out.println(getMissingNo(arr, N));
     }
 }
